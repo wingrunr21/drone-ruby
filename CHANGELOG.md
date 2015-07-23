@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.1.1
+* Add jRuby 9.0.0.0
+
 ### v1.1.0
 * Ruby 1.9.3-p551
 * Ruby 2.0.0-p645

@@ -9,6 +9,7 @@ This image has the following rubies installed via chruby:
 * 2.1.6
 * 2.2.2
 * jRuby 1.7.21
+* jRuby 9.0.0.0
 * Rubinius 2.5.8
 
 All rubies also have bundler installed
