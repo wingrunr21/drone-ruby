@@ -1,7 +1,10 @@
 # Changelog
 
-### v1.1.1
+### v1.1.2
 * Add jRuby 9.0.0.0
+
+### v1.1.1
+* Rubinius 2.5.8
 
 ### v1.1.0
 * Ruby 1.9.3-p551
